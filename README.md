@@ -1,2 +1,1 @@
-# IamKacper
-Hi! I'm Kacper Pelc
+Hi 👋 I'm Kacper Pelc
