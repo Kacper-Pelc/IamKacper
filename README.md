@@ -2,5 +2,5 @@
 
 ## Junior Front-end Developer
 ### I create a Web Application with ReactJS
-### I'am a too young Web developer, maybe a have a big science from Developing
-### My programming language is a Html, Css (Sass / Scss), Tailwind, Bootstrap, ReactJS, JavaScript
+### I am a young internet programmer, maybe I am young but I know a lot
+### I write in HTML, Css (Sass / Scss), Tailwind, Bootstrap, ReactJS, JavaScript
