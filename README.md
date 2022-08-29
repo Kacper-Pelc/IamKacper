@@ -9,3 +9,5 @@
 ## Discord: Klapek#0700
 ## Email: Kacperpelc03@gmail.com
 ## Website: klapek.xyz
+
+![Kacper-pelc GitHub stats](https://github-readme-stats.vercel.app/api?username=Kacper-Pelc&theme=dark&show_icons=true)
