@@ -10,6 +10,6 @@
 ## Email: Kacperpelc03@gmail.com
 ## Website: klapek.xyz
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kacper-Pelc&layout=compact)](https://github.com/Kacper-Pelc/github-readme-stats)
 
 ![Kacper-pelc GitHub stats](https://github-readme-stats.vercel.app/api?username=Kacper-Pelc&theme=dark&show_icons=true)
